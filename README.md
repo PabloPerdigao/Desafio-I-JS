@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 
 ## 💻 Sobre o Desafio
 
-<h3>💡 O que será abordado nesse desafio:</h3>
+<h3>💡 O foi á abordado nesse desafio:</h3>
 
 
 - Variáveis
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 - Condicional.
 
 </br>
-<h3> Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, a partir daí, calcular:</h3>
+<h3> O desafio,consiste em você solicitar ao usuário que ele insira dois números e, a partir daí, calcular:</h3>
 
 - A soma dos dois números;
 - A subtração dos dois números;
@@ -44,18 +44,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 - A divisão dos dois números;
 - O resto da divisão dos dois números;
 
-<h4>Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀 </h4>
+<h4> 👀 🧑‍🚀 2ª parte do desafio  </h4>
 
 - Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
 - Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
 
  <br/>
 
-⚠️ **Lembre-se de sempre mostrar na tela o resultado de cada uma dessas operações!**
-
 
 <h2>🚀👨🏼‍🚀#desafiosrocketseat</h2> 
-😉 Feito com ♥ by Pablo Perdigão, aluno Explorer da Rocketseat! <br/>
-📲 [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat?target=_blank)
+
+ 😎 Desenvolvido com estilo by Pablo Perdigão, aluno Explorer da Rocketseat! <br/>
+[🤝🏼🌐 Siga-me & ajude na criação de uma rede cada vez mais interconectada!](https://www.instagram.com/perdigao.techjourney)
 
 
