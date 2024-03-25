@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 
 ## 💻 Sobre o Desafio
 
-<h3>💡 O foi á abordado nesse desafio:</h3>
+<h3>💡 O que foi abordado nesse desafio:</h3>
 
 
 - Variáveis
@@ -36,7 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 - Condicional.
 
 </br>
-<h3> O desafio,consiste em você solicitar ao usuário que ele insira dois números e, a partir daí, calcular:</h3>
+
+<img src="./assests/preview.gif">
+<h4> 👾 O desafio,consiste em você solicitar ao usuário que ele insira dois números e, a partir daí, calcular:</h4>
 
 - A soma dos dois números;
 - A subtração dos dois números;
@@ -44,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 - A divisão dos dois números;
 - O resto da divisão dos dois números;
 
-<h4> 👀 🧑‍🚀 2ª parte do desafio  </h4>
+<h4> 👀 2ª parte do desafio  </h4>
 
 - Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
 - Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
